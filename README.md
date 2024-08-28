@@ -53,9 +53,7 @@ The four datasets of the source domain should be stored at locations of your cho
 
 - `generate_source_HS_data_process.py`, `generate_source_KSC_data_process.py`,
 
-- `generate_source_process.py`. 
-
-Then you will obtain the datasets required for pre-training.
+- `generate_source_process.py`. Then you will obtain the datasets required for pre-training.
 
 3. Pre_training.
 - `train_SGPL_source.py`.
