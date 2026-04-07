@@ -1,5 +1,6 @@
-# 语义引导的小样本高光谱图像分类方法研究（TSJ2025027）--延安大学研究生科研与实践创新计划资助项目
-# SGPL
+# 语义引导的小样本高光谱图像分类方法研究（YSJ2025027）
+## 延安大学研究生科研与实践创新计划资助项目
+## SGPL
 
 Semantic Guided Prototype Learning for Cross-Domain Few-Shot Hyperspectral Image Classification
 
